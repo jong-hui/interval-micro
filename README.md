@@ -19,4 +19,4 @@ setTimeout(function() {
 
 ## API
 
-###`intervalMicro(callback, delay[, param1, param2, ...])`
+### `intervalMicro(callback, delay[, param1, param2, ...])`
